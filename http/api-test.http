@@ -1,0 +1,11 @@
+### api path 테스트
+GET localhost:8080/api/v1/method/01
+
+### api properties 테스트
+GET localhost:8080/method/02
+
+### version 01 테스트
+GET localhost:8080/v1/method/02
+
+### version 02 테스트
+GET localhost:8080/v2/method/02
